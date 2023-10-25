@@ -1,0 +1,8 @@
+User-agent: Googlebot
+Disallow: /index.html
+
+User-agent: DuckDuckBot
+Allow: /
+Disallow: /favicon-16x16.png
+
+Sitemap: http://127.0.0.1:5500/sitemap.xml
